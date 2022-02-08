@@ -1,4 +1,23 @@
 
+.bigDiv {
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+    background: black;
+
+}
+
+.bigDiv div{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    font-size: 100px;
+    padding: 15px;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+
+}
 /* 
 
     You can write your own styles here...
